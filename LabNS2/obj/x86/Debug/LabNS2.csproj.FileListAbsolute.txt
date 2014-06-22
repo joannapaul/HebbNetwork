@@ -1,0 +1,16 @@
+D:\VS Projects\LabNS2\LabNS2\bin\Debug\LabNS2.exe
+D:\VS Projects\LabNS2\LabNS2\bin\Debug\LabNS2.pdb
+D:\VS Projects\LabNS2\LabNS2\obj\x86\Debug\LabNS2.Form1.resources
+D:\VS Projects\LabNS2\LabNS2\obj\x86\Debug\LabNS2.Properties.Resources.resources
+D:\VS Projects\LabNS2\LabNS2\obj\x86\Debug\LabNS2.csproj.GenerateResource.Cache
+D:\VS Projects\LabNS2\LabNS2\obj\x86\Debug\LabNS2.exe
+D:\VS Projects\LabNS2\LabNS2\obj\x86\Debug\LabNS2.pdb
+D:\VS Projects\LabNS2\LabNS2\obj\x86\Debug\LabNS2.csprojResolveAssemblyReference.cache
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\obj\x86\Debug\LabNS2.Form1.resources
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\obj\x86\Debug\LabNS2.Properties.Resources.resources
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\obj\x86\Debug\LabNS2.csproj.GenerateResource.Cache
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\bin\Debug\LabNS2.exe
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\bin\Debug\LabNS2.pdb
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\obj\x86\Debug\LabNS2.exe
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\obj\x86\Debug\LabNS2.pdb
+G:\УЧЕБА\магистр\1\Kisa\LabNS2\LabNS2\obj\x86\Debug\LabNS2.csprojResolveAssemblyReference.cache
